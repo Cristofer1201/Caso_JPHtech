@@ -1,0 +1,24 @@
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\bin\Debug\G0.exe.config
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\bin\Debug\G0.exe
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\bin\Debug\G0.pdb
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.Properties.Resources.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.csproj.GenerateResource.Cache
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.exe
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.pdb
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.Form1.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.presentacion.FrmPrincipal.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.presentacion.FrmProovedor.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.presentacion.FrmReg_Com.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.presentacion.FrmReg_Ven.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.presentacion.Login.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.presentacion.Loading.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.presentacion.FrmProducto.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.presentacion.FrmCliente.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.presentacion.FrmTrabajador.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.presentacion.FrmKardex.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.presentacion.FrmListaVentasMensual.resources
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Escritorio\G0\G0\bin\Debug\G0.exe.config
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Escritorio\G0\G0\obj\Debug\G0.exe
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Escritorio\G0\G0\obj\Debug\G0.pdb
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.csproj.AssemblyReference.cache
+C:\Users\CRISTOFER\OneDrive - Universidad Privada del Norte\Documentos\ESTRUCTURA DE DATOS\ED_Semana 9\G0\G0\obj\Debug\G0.csproj.CoreCompileInputs.cache

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lista_Trabajador xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ini>
+    <dato>
+      <nombre>cristofer</nombre>
+      <DNI>33444344</DNI>
+      <edad>33</edad>
+      <direccion>dsdsd</direccion>
+      <fechaContrato>2021-11-08T20:26:33</fechaContrato>
+    </dato>
+    <siguiente>
+      <dato>
+        <nombre>Sebastian</nombre>
+        <DNI>54621112</DNI>
+        <edad>28</edad>
+        <direccion>sdsdsd</direccion>
+        <fechaContrato>2021-11-01T19:30:31</fechaContrato>
+      </dato>
+      <siguiente>
+        <dato>
+          <nombre>Julio</nombre>
+          <DNI>21212121</DNI>
+          <edad>30</edad>
+          <direccion>asasas</direccion>
+          <fechaContrato>2019-11-19T10:33:47</fechaContrato>
+        </dato>
+        <siguiente>
+          <dato>
+            <nombre>Julius</nombre>
+            <DNI>33333333</DNI>
+            <edad>40</edad>
+            <direccion>Calle 14 de diciembre</direccion>
+            <fechaContrato>2011-06-21T12:50:48</fechaContrato>
+          </dato>
+          <siguiente>
+            <dato>
+              <nombre>Lucho</nombre>
+              <DNI>15322222</DNI>
+              <edad>29</edad>
+              <direccion>su casa xd</direccion>
+              <fechaContrato>2015-07-01T12:50:48</fechaContrato>
+            </dato>
+            <siguiente>
+              <dato>
+                <nombre>Cesar</nombre>
+                <DNI>12122122</DNI>
+                <edad>30</edad>
+                <direccion>145272</direccion>
+                <fechaContrato>2015-07-01T12:50:48</fechaContrato>
+              </dato>
+              <siguiente>
+                <dato>
+                  <nombre>Maria</nombre>
+                  <DNI>45454545</DNI>
+                  <edad>30</edad>
+                  <direccion>Calle B723</direccion>
+                  <fechaContrato>2015-07-01T12:50:48</fechaContrato>
+                </dato>
+                <siguiente>
+                  <dato>
+                    <nombre>Renzo</nombre>
+                    <DNI>65456566</DNI>
+                    <edad>20</edad>
+                    <direccion>Calle A1933</direccion>
+                    <fechaContrato>2015-07-01T12:50:48</fechaContrato>
+                  </dato>
+                  <siguiente>
+                    <dato>
+                      <nombre>Catalina</nombre>
+                      <DNI>40023022</DNI>
+                      <edad>20</edad>
+                      <direccion>Calle t1933</direccion>
+                      <fechaContrato>2015-07-01T12:50:48</fechaContrato>
+                    </dato>
+                    <siguiente>
+                      <dato>
+                        <nombre>Michael</nombre>
+                        <DNI>15444444</DNI>
+                        <edad>39</edad>
+                        <direccion>Calle 222</direccion>
+                        <fechaContrato>2015-07-01T12:50:48</fechaContrato>
+                      </dato>
+                      <siguiente>
+                        <dato>
+                          <nombre>Ricardo</nombre>
+                          <DNI>67677777</DNI>
+                          <edad>28</edad>
+                          <direccion>Calle 222</direccion>
+                          <fechaContrato>2015-07-01T12:50:48</fechaContrato>
+                        </dato>
+                        <siguiente>
+                          <dato>
+                            <nombre>Ricardo G</nombre>
+                            <DNI>25252525</DNI>
+                            <edad>23</edad>
+                            <direccion>dsdd</direccion>
+                            <fechaContrato>2021-11-24T14:42:17.2915869-05:00</fechaContrato>
+                          </dato>
+                        </siguiente>
+                      </siguiente>
+                    </siguiente>
+                  </siguiente>
+                </siguiente>
+              </siguiente>
+            </siguiente>
+          </siguiente>
+        </siguiente>
+      </siguiente>
+    </siguiente>
+  </ini>
+  <fin>
+    <dato>
+      <nombre>Ricardo</nombre>
+      <DNI>67677777</DNI>
+      <edad>28</edad>
+      <direccion>Calle 222</direccion>
+      <fechaContrato>2015-07-01T12:50:48</fechaContrato>
+    </dato>
+    <siguiente>
+      <dato>
+        <nombre>Ricardo G</nombre>
+        <DNI>25252525</DNI>
+        <edad>23</edad>
+        <direccion>dsdd</direccion>
+        <fechaContrato>2021-11-24T14:42:17.2915869-05:00</fechaContrato>
+      </dato>
+    </siguiente>
+  </fin>
+</Lista_Trabajador>

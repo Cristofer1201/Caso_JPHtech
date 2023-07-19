@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lista_RegVen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ini>
+    <dato>
+      <cliente>
+        <nombre>cristofer</nombre>
+        <DNI>12121212</DNI>
+        <edad>34</edad>
+        <direccion>sdsdsds</direccion>
+        <producto>
+          <codigo />
+          <nombre>Refrigerador</nombre>
+          <proveedor />
+          <precioVenta>2000</precioVenta>
+          <stock>0</stock>
+          <cantidad>2</cantidad>
+          <nroVenta>N00000001</nroVenta>
+          <fechaVenta>2021-11-22T17:17:15</fechaVenta>
+        </producto>
+      </cliente>
+      <productos>
+        <ini>
+          <dato>
+            <codigo />
+            <nombre>Refrigerador</nombre>
+            <proveedor />
+            <precioVenta>2000</precioVenta>
+            <stock>0</stock>
+            <cantidad>2</cantidad>
+            <nroVenta>N00000001</nroVenta>
+            <fechaVenta>2021-11-22T17:17:15</fechaVenta>
+          </dato>
+          <siguiente>
+            <dato>
+              <codigo />
+              <nombre>Lavadora</nombre>
+              <proveedor />
+              <precioVenta>3000</precioVenta>
+              <stock>0</stock>
+              <cantidad>1</cantidad>
+              <nroVenta>N00000002</nroVenta>
+              <fechaVenta>2021-11-26T19:27:49</fechaVenta>
+            </dato>
+            <siguiente>
+              <dato>
+                <codigo />
+                <nombre>Lavadora</nombre>
+                <proveedor />
+                <precioVenta>2000</precioVenta>
+                <stock>0</stock>
+                <cantidad>1</cantidad>
+                <nroVenta>N00000003</nroVenta>
+                <fechaVenta>2021-06-30T14:40:06</fechaVenta>
+              </dato>
+            </siguiente>
+          </siguiente>
+        </ini>
+        <fin>
+          <dato>
+            <codigo />
+            <nombre>Lavadora</nombre>
+            <proveedor />
+            <precioVenta>2000</precioVenta>
+            <stock>0</stock>
+            <cantidad>1</cantidad>
+            <nroVenta>N00000003</nroVenta>
+            <fechaVenta>2021-06-30T14:40:06</fechaVenta>
+          </dato>
+        </fin>
+      </productos>
+    </dato>
+    <siguiente>
+      <dato>
+        <cliente>
+          <nombre>xdxxd</nombre>
+          <DNI>22221212</DNI>
+          <edad>34</edad>
+          <direccion>gdsdsd</direccion>
+          <producto>
+            <codigo />
+            <nombre>Termo electrico</nombre>
+            <proveedor />
+            <precioVenta>200</precioVenta>
+            <stock>0</stock>
+            <cantidad>2</cantidad>
+            <nroVenta>N00000004</nroVenta>
+            <fechaVenta>2021-11-23T00:11:00</fechaVenta>
+          </producto>
+        </cliente>
+        <productos>
+          <ini>
+            <dato>
+              <codigo />
+              <nombre>Termo electrico</nombre>
+              <proveedor />
+              <precioVenta>200</precioVenta>
+              <stock>0</stock>
+              <cantidad>2</cantidad>
+              <nroVenta>N00000004</nroVenta>
+              <fechaVenta>2021-11-23T00:11:00</fechaVenta>
+            </dato>
+            <siguiente>
+              <dato>
+                <codigo />
+                <nombre>Microondas</nombre>
+                <proveedor />
+                <precioVenta>1000</precioVenta>
+                <stock>0</stock>
+                <cantidad>1</cantidad>
+                <nroVenta>N00000005</nroVenta>
+                <fechaVenta>2021-11-23T18:57:41.2703664-05:00</fechaVenta>
+              </dato>
+            </siguiente>
+          </ini>
+          <fin>
+            <dato>
+              <codigo />
+              <nombre>Microondas</nombre>
+              <proveedor />
+              <precioVenta>1000</precioVenta>
+              <stock>0</stock>
+              <cantidad>1</cantidad>
+              <nroVenta>N00000005</nroVenta>
+              <fechaVenta>2021-11-23T18:57:41.2703664-05:00</fechaVenta>
+            </dato>
+          </fin>
+        </productos>
+      </dato>
+      <siguiente>
+        <dato>
+          <cliente>
+            <nombre>hola</nombre>
+            <DNI>45235555</DNI>
+            <edad>34</edad>
+            <direccion>gfsdsd</direccion>
+            <producto>
+              <codigo />
+              <nombre>Lavadora</nombre>
+              <proveedor />
+              <precioVenta>2000</precioVenta>
+              <stock>0</stock>
+              <cantidad>1</cantidad>
+              <nroVenta>N00000004</nroVenta>
+              <fechaVenta>2021-10-11T16:39:15</fechaVenta>
+            </producto>
+          </cliente>
+          <productos>
+            <ini>
+              <dato>
+                <codigo />
+                <nombre>Lavadora</nombre>
+                <proveedor />
+                <precioVenta>2000</precioVenta>
+                <stock>0</stock>
+                <cantidad>1</cantidad>
+                <nroVenta>N00000006</nroVenta>
+                <fechaVenta>2021-10-11T16:39:15</fechaVenta>
+              </dato>
+              <siguiente>
+                <dato>
+                  <codigo />
+                  <nombre>Horno</nombre>
+                  <proveedor />
+                  <precioVenta>1599</precioVenta>
+                  <stock>0</stock>
+                  <cantidad>1</cantidad>
+                  <nroVenta>N00000007</nroVenta>
+                  <fechaVenta>2021-10-11T16:39:15</fechaVenta>
+                </dato>
+              </siguiente>
+            </ini>
+            <fin>
+              <dato>
+                <codigo />
+                <nombre>Horno</nombre>
+                <proveedor />
+                <precioVenta>1599</precioVenta>
+                <stock>0</stock>
+                <cantidad>1</cantidad>
+                <nroVenta>N00000007</nroVenta>
+                <fechaVenta>2021-10-11T16:39:15</fechaVenta>
+              </dato>
+            </fin>
+          </productos>
+        </dato>
+        <siguiente>
+          <dato>
+            <cliente>
+              <nombre>Cliente2</nombre>
+              <DNI>55554444</DNI>
+              <edad>29</edad>
+              <direccion>Calle C#</direccion>
+              <producto>
+                <codigo />
+                <nombre>Refrigerador</nombre>
+                <proveedor />
+                <precioVenta>8000</precioVenta>
+                <stock>0</stock>
+                <cantidad>3</cantidad>
+                <nroVenta>N00000007</nroVenta>
+                <fechaVenta>2021-11-23T21:07:37.6430716-05:00</fechaVenta>
+              </producto>
+            </cliente>
+            <productos>
+              <ini>
+                <dato>
+                  <codigo />
+                  <nombre>Refrigerador</nombre>
+                  <proveedor />
+                  <precioVenta>8000</precioVenta>
+                  <stock>0</stock>
+                  <cantidad>3</cantidad>
+                  <nroVenta>N00000008</nroVenta>
+                  <fechaVenta>2021-11-23T21:07:37.6430716-05:00</fechaVenta>
+                </dato>
+                <siguiente>
+                  <dato>
+                    <codigo />
+                    <nombre>Secadora</nombre>
+                    <proveedor />
+                    <precioVenta>1000</precioVenta>
+                    <stock>0</stock>
+                    <cantidad>1</cantidad>
+                    <nroVenta>N00000009</nroVenta>
+                    <fechaVenta>2021-11-23T21:07:37.6430716-05:00</fechaVenta>
+                  </dato>
+                </siguiente>
+              </ini>
+              <fin>
+                <dato>
+                  <codigo />
+                  <nombre>Secadora</nombre>
+                  <proveedor />
+                  <precioVenta>1000</precioVenta>
+                  <stock>0</stock>
+                  <cantidad>1</cantidad>
+                  <nroVenta>N00000009</nroVenta>
+                  <fechaVenta>2021-11-23T21:07:37.6430716-05:00</fechaVenta>
+                </dato>
+              </fin>
+            </productos>
+          </dato>
+          <siguiente>
+            <dato>
+              <cliente>
+                <nombre>Alberto</nombre>
+                <DNI>44411123</DNI>
+                <edad>44</edad>
+                <direccion>errr</direccion>
+                <producto>
+                  <codigo />
+                  <nombre>Refrigerador</nombre>
+                  <proveedor />
+                  <precioVenta>8000</precioVenta>
+                  <stock>0</stock>
+                  <cantidad>1</cantidad>
+                  <nroVenta>N00000009</nroVenta>
+                  <fechaVenta>2020-06-19T21:12:57</fechaVenta>
+                </producto>
+              </cliente>
+              <productos>
+                <ini>
+                  <dato>
+                    <codigo />
+                    <nombre>Microondas</nombre>
+                    <proveedor />
+                    <precioVenta>4000</precioVenta>
+                    <stock>0</stock>
+                    <cantidad>2</cantidad>
+                    <nroVenta>N00000010</nroVenta>
+                    <fechaVenta>2021-10-19T12:46:59</fechaVenta>
+                  </dato>
+                </ini>
+                <fin>
+                  <dato>
+                    <codigo />
+                    <nombre>Microondas</nombre>
+                    <proveedor />
+                    <precioVenta>4000</precioVenta>
+                    <stock>0</stock>
+                    <cantidad>2</cantidad>
+                    <nroVenta>N00000010</nroVenta>
+                    <fechaVenta>2021-10-19T12:46:59</fechaVenta>
+                  </dato>
+                </fin>
+              </productos>
+            </dato>
+            <siguiente>
+              <dato>
+                <cliente>
+                  <nombre>Cliente3</nombre>
+                  <DNI>12122112</DNI>
+                  <edad>39</edad>
+                  <direccion>ewew</direccion>
+                  <producto>
+                    <codigo />
+                    <nombre>Refrigerador</nombre>
+                    <proveedor />
+                    <precioVenta>9000</precioVenta>
+                    <stock>0</stock>
+                    <cantidad>10</cantidad>
+                    <nroVenta>N00000010</nroVenta>
+                    <fechaVenta>2021-11-17T12:20:55</fechaVenta>
+                  </producto>
+                </cliente>
+                <productos>
+                  <ini>
+                    <dato>
+                      <codigo />
+                      <nombre>Refrigerador</nombre>
+                      <proveedor />
+                      <precioVenta>9000</precioVenta>
+                      <stock>0</stock>
+                      <cantidad>10</cantidad>
+                      <nroVenta>N00000011</nroVenta>
+                      <fechaVenta>2021-11-17T12:20:55</fechaVenta>
+                    </dato>
+                  </ini>
+                  <fin>
+                    <dato>
+                      <codigo />
+                      <nombre>Refrigerador</nombre>
+                      <proveedor />
+                      <precioVenta>9000</precioVenta>
+                      <stock>0</stock>
+                      <cantidad>10</cantidad>
+                      <nroVenta>N00000011</nroVenta>
+                      <fechaVenta>2021-11-17T12:20:55</fechaVenta>
+                    </dato>
+                  </fin>
+                </productos>
+              </dato>
+              <siguiente>
+                <dato>
+                  <cliente>
+                    <nombre>wesadd</nombre>
+                    <DNI>14124144</DNI>
+                    <edad>30</edad>
+                    <direccion>dfdfd</direccion>
+                    <producto>
+                      <codigo />
+                      <nombre>Refrigerador</nombre>
+                      <proveedor />
+                      <precioVenta>8000</precioVenta>
+                      <stock>0</stock>
+                      <cantidad>20</cantidad>
+                      <nroVenta>N00000011</nroVenta>
+                      <fechaVenta>2021-11-24T12:23:14.6541253-05:00</fechaVenta>
+                    </producto>
+                  </cliente>
+                  <productos>
+                    <ini>
+                      <dato>
+                        <codigo />
+                        <nombre>Refrigerador</nombre>
+                        <proveedor />
+                        <precioVenta>8000</precioVenta>
+                        <stock>0</stock>
+                        <cantidad>20</cantidad>
+                        <nroVenta>N00000012</nroVenta>
+                        <fechaVenta>2021-11-24T12:23:14.6541253-05:00</fechaVenta>
+                      </dato>
+                    </ini>
+                    <fin>
+                      <dato>
+                        <codigo />
+                        <nombre>Refrigerador</nombre>
+                        <proveedor />
+                        <precioVenta>8000</precioVenta>
+                        <stock>0</stock>
+                        <cantidad>20</cantidad>
+                        <nroVenta>N00000012</nroVenta>
+                        <fechaVenta>2021-11-24T12:23:14.6541253-05:00</fechaVenta>
+                      </dato>
+                    </fin>
+                  </productos>
+                </dato>
+                <siguiente>
+                  <dato>
+                    <cliente>
+                      <nombre>23232222</nombre>
+                      <DNI>18291822</DNI>
+                      <edad>30</edad>
+                      <direccion>5sfd</direccion>
+                      <producto>
+                        <codigo />
+                        <nombre>Refrigerador</nombre>
+                        <proveedor />
+                        <precioVenta>6000</precioVenta>
+                        <stock>0</stock>
+                        <cantidad>20</cantidad>
+                        <nroVenta>N00000012</nroVenta>
+                        <fechaVenta>2021-10-13T12:26:12</fechaVenta>
+                      </producto>
+                    </cliente>
+                    <productos>
+                      <ini>
+                        <dato>
+                          <codigo />
+                          <nombre>Refrigerador</nombre>
+                          <proveedor />
+                          <precioVenta>6000</precioVenta>
+                          <stock>0</stock>
+                          <cantidad>20</cantidad>
+                          <nroVenta>N00000013</nroVenta>
+                          <fechaVenta>2021-10-13T12:26:12</fechaVenta>
+                        </dato>
+                      </ini>
+                      <fin>
+                        <dato>
+                          <codigo />
+                          <nombre>Refrigerador</nombre>
+                          <proveedor />
+                          <precioVenta>6000</precioVenta>
+                          <stock>0</stock>
+                          <cantidad>20</cantidad>
+                          <nroVenta>N00000013</nroVenta>
+                          <fechaVenta>2021-10-13T12:26:12</fechaVenta>
+                        </dato>
+                      </fin>
+                    </productos>
+                  </dato>
+                  <siguiente>
+                    <dato>
+                      <cliente>
+                        <nombre>Cristofer</nombre>
+                        <DNI>78787878</DNI>
+                        <edad>20</edad>
+                        <direccion>calle </direccion>
+                        <producto>
+                          <nombre>Refrigerador</nombre>
+                          <precioVenta>4000</precioVenta>
+                          <stock>0</stock>
+                          <cantidad>1</cantidad>
+                          <nroVenta>N00000014</nroVenta>
+                          <fechaVenta>2023-07-12T17:50:27</fechaVenta>
+                        </producto>
+                      </cliente>
+                      <productos>
+                        <ini>
+                          <dato>
+                            <nombre>Refrigerador</nombre>
+                            <precioVenta>4000</precioVenta>
+                            <stock>0</stock>
+                            <cantidad>1</cantidad>
+                            <nroVenta>N00000014</nroVenta>
+                            <fechaVenta>2023-07-12T17:50:27</fechaVenta>
+                          </dato>
+                        </ini>
+                        <fin>
+                          <dato>
+                            <nombre>Refrigerador</nombre>
+                            <precioVenta>4000</precioVenta>
+                            <stock>0</stock>
+                            <cantidad>1</cantidad>
+                            <nroVenta>N00000014</nroVenta>
+                            <fechaVenta>2023-07-12T17:50:27</fechaVenta>
+                          </dato>
+                        </fin>
+                      </productos>
+                    </dato>
+                  </siguiente>
+                </siguiente>
+              </siguiente>
+            </siguiente>
+          </siguiente>
+        </siguiente>
+      </siguiente>
+    </siguiente>
+  </ini>
+  <fin>
+    <dato>
+      <cliente>
+        <nombre>Cristofer</nombre>
+        <DNI>78787878</DNI>
+        <edad>20</edad>
+        <direccion>calle </direccion>
+        <producto>
+          <nombre>Refrigerador</nombre>
+          <precioVenta>4000</precioVenta>
+          <stock>0</stock>
+          <cantidad>1</cantidad>
+          <nroVenta>N00000014</nroVenta>
+          <fechaVenta>2023-07-12T17:50:27</fechaVenta>
+        </producto>
+      </cliente>
+      <productos>
+        <ini>
+          <dato>
+            <nombre>Refrigerador</nombre>
+            <precioVenta>4000</precioVenta>
+            <stock>0</stock>
+            <cantidad>1</cantidad>
+            <nroVenta>N00000014</nroVenta>
+            <fechaVenta>2023-07-12T17:50:27</fechaVenta>
+          </dato>
+        </ini>
+        <fin>
+          <dato>
+            <nombre>Refrigerador</nombre>
+            <precioVenta>4000</precioVenta>
+            <stock>0</stock>
+            <cantidad>1</cantidad>
+            <nroVenta>N00000014</nroVenta>
+            <fechaVenta>2023-07-12T17:50:27</fechaVenta>
+          </dato>
+        </fin>
+      </productos>
+    </dato>
+  </fin>
+</Lista_RegVen>
